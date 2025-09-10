@@ -1,0 +1,22 @@
+{
+  "engines": {
+    "ChatGPT (GUI)": {
+      "url": "https://chat.openai.com/",
+      "login_required": true,
+      "copy_btn_coords": [711, 840],
+      "copy_btn_image_path": "assets/Copy_Btn_ChatGpt.png"
+    },
+    "Gemini (GUI)": {
+      "url": "https://gemini.google.com/app",
+      "login_required": true,
+      "copy_btn_coords": [911, 885],
+      "copy_btn_image_path": "assets/Copy_Btn_Gemini.png"
+    },
+    "Deepseek (GUI)": {
+      "url": "https://chat.deepseek.com/",
+      "login_required": true,
+      "copy_btn_coords": [739, 815],
+      "copy_btn_image_path": "assets/Copy_Btn_Deepseek.png"
+    }
+  }
+}
